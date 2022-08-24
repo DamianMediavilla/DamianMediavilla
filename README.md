@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DamianMediavilla, I'm argentinian dev. 
+- 👋 Hi, I’m @DamianMediavilla, an argentinian dev. 
 - 👀 I’m interested in IoT, electronics, music, and web apps.
 - 🌱 I’m currently learning web development, with HTML, CSS, JS, PHP, and tryng to choose some framework to learn
 - 💞️ I’m looking to collaborate on IoT projects, and web apps. 
